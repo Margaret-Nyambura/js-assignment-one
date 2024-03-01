@@ -1,0 +1,56 @@
+#container{
+    background-color: black;
+    color: antiquewhite;
+    word-spacing: 20px;
+    border-radius: 30px solid;
+}
+h3{
+    margin-right: 30%;
+}
+#image{
+    border-radius: 10px;
+    align-self: right;
+    border: 3px solid;
+    padding: 5px;
+    margin-left: 5%;
+    width: 83%;
+    margin-right: 5%;
+    color: gray;
+    align-self: right;
+}
+h1{
+    text-align: left;
+    margin-left: 10%;
+}
+#image1{
+ width: 300px;
+ height: 20px;
+ margin: 10%;
+ padding: 5px;
+ border-radius: solid 2px black;
+}
+
+
+
+h4{
+    color: black;
+    display: flex;
+}
+p{
+ 
+}
+#firstphotos{
+    display: flex;
+    justify-content: 20px;
+}
+#secondphotos{
+    display: flex;
+    justify-content: 20px;
+}
+ #info{
+    background-color: black;
+    color: antiquewhite;
+    display: flex; 
+}
+
+
